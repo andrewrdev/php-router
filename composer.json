@@ -1,10 +1,7 @@
 {
-    "autoload": 
-    {
-        "psr-4": 
-        {
-            "src\\" : "src/",
-            "vendor\\" : "vendor/"
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
         }
     }
 }
